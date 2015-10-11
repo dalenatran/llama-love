@@ -54,8 +54,9 @@ table {
 <style>
 
 body {
-	font-family:helvetica;
-	color: black;
+	width:960px;
+	margin:0 auto; 
+	position:relative;
 }
 
 article { 
@@ -64,6 +65,7 @@ article {
 	border-color: black;
 	width:320px;
 	margin:15px;
+	margin-top:300;
 	padding:30px;
 }
 
@@ -74,17 +76,18 @@ img {
 }
 
 h1 { font-family: helvetica;
-	font-style:bold;
-	color:white;
+	font-weight:bold;
+	color:black;
 	font-size:16px;
 	margin:15px;}
 
 h2 { font-family: helvetica;
 	color:darkgrey;
-	font-size:9px;}
+	font-size:9px;
+	font-style:italic;
+}
 	
-	p { float:left;
-		font-family:helvetica;
+	p { font-family:helvetica;
 		font-size:10px;
 		color:black;
 		line-height:14px;
