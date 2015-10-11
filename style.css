@@ -55,12 +55,12 @@ table {
 
 body {
 	font-family:helvetica;
-	color: white;
+	color: black;
 }
 
 article { 
 	float:left;
-	background-color: turquoise;
+	background-color: white;
 	border-color: black;
 	width:320px;
 	margin:15px;
@@ -86,7 +86,7 @@ h2 { font-family: helvetica;
 	p { float:left;
 		font-family:helvetica;
 		font-size:10px;
-		color:white;
+		color:black;
 		line-height:14px;
 		margin:15px;
 		
